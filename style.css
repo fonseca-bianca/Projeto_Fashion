@@ -33,6 +33,11 @@ body{
     color: #808080;
     letter-spacing: 2px;
     padding: 0 10px 0 0;
+    transition: color 0.2s linear; /*demora 0.2s pra mudar a cor do 'a:hover'*/
+}
+
+.banner-menu nav a:hover{
+    color: white;
 }
 
 .new-fashion{
