@@ -108,6 +108,9 @@ body{
     font-weight: bolder;
     font-style: normal; 
 }
+.map iframe{
+    width: 100%;
+}
 
 .footer{
     background-color: rgba(5, 21, 65);
